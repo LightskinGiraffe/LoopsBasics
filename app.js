@@ -1,6 +1,6 @@
 /* Done in wednesday class:
 1. What is a loop?
-
+A loop
 2. What is the syntax of a loop?
 for(i = 0; i < 5; i++){
 
